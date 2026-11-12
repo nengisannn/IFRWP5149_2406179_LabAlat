@@ -2,7 +2,7 @@
 
 ### Praktikum Analisis Desain Berorientasi Objek
 
-- 🌱 I'm currently learning **PERTEMUAN 2 UNIFIED MODELLING LANGUAGE (UML)**
+- 🌱 I'm currently learning **PERTEMUAN 6 Diagram Activity Diagram**
 
 - 📫 How to reach me **2406179@itg.ac.id**
 
